@@ -1,3 +1,4 @@
+<img width="1118" height="627" alt="report screenshot" src="https://github.com/user-attachments/assets/d6b31ff4-94f2-4842-9bdf-bf5056cbbd4e" />
 # Churn-Analysis-for-Fit.ly-Tech-fitness-application
 Fit.ly Tech Churn Analysis: A study of customer retention trends using behavioral metrics and support data. Includes data synthesis, churn indicators, and strategic insights. #DataAnalysis #ChurnPrediction #CustomerRetention
 
